@@ -1,0 +1,14 @@
+# Alguns comandos no terminal bash
+
+$ls
+
+$ git push origin main
+$ git pull origin master
+
+$ git status
+
+$ git log --oneline
+
+$ git add . && git commit -m "Implementado...."
+
+$ git push git@github.com:alexandrepelichieroneto-commits/projeto-01.git master
